@@ -1,4 +1,4 @@
-# Kakao Arena : brunch article recommendation revival
+# Kakao Arena : brunch article recommendation
 
 ## baseline  
 아래의 정식 링크를 참고하시기 바랍니다:   
