@@ -22,7 +22,7 @@ $> tree -d
 ## run  
 
 ## evaluate 
-train 데이터와 test 데이터를 나누기 위해 아래와 같이 실행합니다.(,dev를 test로 바꾸기)   
+train 데이터와 test 데이터를 나누기 위해 아래와 같이 실행합니다.(dev를 test로 바꾸기)   
 ```bash
 $> python database.py groupby 2018100100 2019022200 ./tmp/ ./tmp/train
 $> python database.py groupby 2019022200 2019030100 ./tmp/ ./tmp/dev
