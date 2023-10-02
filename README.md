@@ -2,17 +2,7 @@
 late submission임을 밝힘  
 1위 성적 밝히기?   
 1위 성적 넘기기 (어떻게든)  
-
-```
-├── res
-│   ├── /contents
-│   ├── /predict
-│   ├── /read
-│   ├── magazine.json
-│   ├── metadata.json
-│   └── users.json
-└── tmp
-```
+데이터 경로를 res 아래에 넣기
 
 ## result  
 sequential-rec : collaborative filtering   
