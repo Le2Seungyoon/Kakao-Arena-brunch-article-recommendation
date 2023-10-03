@@ -16,3 +16,15 @@ $> python evaluate.py run ./tmp/dev.users.recommend ./tmp/dev --topn=100
 ## to - do  
 ensemble
 cold-start
+
+## citation
+```
+@inproceedings{kang2018self,
+  title={Self-attentive sequential recommendation},
+  author={Kang, Wang-Cheng and McAuley, Julian},
+  booktitle={2018 IEEE International Conference on Data Mining (ICDM)},
+  pages={197--206},
+  year={2018},
+  organization={IEEE}
+}
+```
