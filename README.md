@@ -1,11 +1,11 @@
 # Kakao Arena : brunch article recommendation
-late submission임을 밝힘  
-1위 성적 밝히기?   
-1위 성적 넘기기 (어떻게든)  
-데이터 경로를 res 아래에 넣기
+EDA의 결과는 ... 
+그러므로 ... 
 
-## result  
-sequential-rec : collaborative filtering   
+
+## data setting 
+먼저 res 아래에 Kakao Arena : brunch article recommendation의 데이터를 넣습니다.  
+
 
 ## run  
 먼저 df.txt 생성  
@@ -18,13 +18,9 @@ python create_dataset.py
 python main.py --dataset=df --train_dir=default
 ```
 
-## evaluate 
-```
-python evaluate.py run ./tmp/dev.users.recommend ./tmp/dev --topn=100
-```
-## to - do  
-ensemble
-cold-start
+## result  
+결과를 NDCG으로 ...
+상세한 로그는 참고 바람!  
 
 ## citation
 해당 repository에서 사용된 데이터는 [Kakao](https://www.kakaocorp.com)에서 주최한 Kakao Arena에서 사용된 데이터이며,   
