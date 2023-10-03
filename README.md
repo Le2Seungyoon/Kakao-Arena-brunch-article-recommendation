@@ -8,10 +8,13 @@ late submission임을 밝힘
 sequential-rec : collaborative filtering   
 
 ## run  
+```
+python create_dataset.py
+```
 
 ## evaluate 
-```bash
-$> python evaluate.py run ./tmp/dev.users.recommend ./tmp/dev --topn=100
+```
+python evaluate.py run ./tmp/dev.users.recommend ./tmp/dev --topn=100
 ```
 ## to - do  
 ensemble
