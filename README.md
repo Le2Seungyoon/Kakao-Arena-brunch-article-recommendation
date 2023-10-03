@@ -8,8 +8,14 @@ late submission임을 밝힘
 sequential-rec : collaborative filtering   
 
 ## run  
+먼저 df.txt 생성  
 ```
 python create_dataset.py
+```
+
+그후 main.py 실행 예시는 다음과 같음:  
+```
+python main.py --dataset=df --train_dir=default
 ```
 
 ## evaluate 
