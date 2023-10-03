@@ -27,7 +27,7 @@ ensemble
 cold-start
 
 ## citation
-해당 repository에서 사용된 데이터는 Kakao (https://www.kakaocorp.com) 에서 주최한 Kakao Arena에서 사용된 데이터이며,   
+해당 repository에서 사용된 데이터는 [Kakao](https://www.kakaocorp.com)에서 주최한 Kakao Arena에서 사용된 데이터이며,   
 모델인 SASRec의 경우 아래의 논문을 참고했습니다.  
 ```
 @inproceedings{kang2018self,
